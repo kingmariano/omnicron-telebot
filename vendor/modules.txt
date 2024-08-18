@@ -1,0 +1,37 @@
+# github.com/Jeffail/gabs/v2 v2.7.0
+## explicit; go 1.16
+github.com/Jeffail/gabs/v2
+# github.com/google/uuid v1.1.2
+## explicit
+github.com/google/uuid
+# github.com/joho/godotenv v1.5.1
+## explicit; go 1.12
+github.com/joho/godotenv
+# github.com/kingmariano/omnicron-go v0.11.1
+## explicit; go 1.22.4
+github.com/kingmariano/omnicron-go
+# github.com/lib/pq v1.10.9
+## explicit; go 1.13
+github.com/lib/pq
+github.com/lib/pq/oid
+github.com/lib/pq/scram
+# github.com/looplab/fsm v1.0.2
+## explicit; go 1.16
+github.com/looplab/fsm
+# go.uber.org/atomic v1.7.0
+## explicit; go 1.13
+go.uber.org/atomic
+# go.uber.org/multierr v1.6.0
+## explicit; go 1.12
+go.uber.org/multierr
+# go.uber.org/zap v1.21.0
+## explicit; go 1.13
+go.uber.org/zap
+go.uber.org/zap/buffer
+go.uber.org/zap/internal/bufferpool
+go.uber.org/zap/internal/color
+go.uber.org/zap/internal/exit
+go.uber.org/zap/zapcore
+# gopkg.in/telebot.v3 v3.3.6
+## explicit; go 1.16
+gopkg.in/telebot.v3
